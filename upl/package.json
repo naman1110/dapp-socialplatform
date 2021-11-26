@@ -1,0 +1,21 @@
+{
+  "name": "ebd_tokenization_project",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.0-beta.0",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.2.0",
+    "dotenv": "^8.2.0",
+    "ipfs-core": "^0.12.1",
+    "ipfs-http-client": "^53.0.1",
+    "web3-provider-engine": "^16.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Wiesner - vomtom.at",
+  "license": "ISC"
+}
